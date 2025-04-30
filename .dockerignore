@@ -13,10 +13,6 @@ npm-debug.log*
 dist
 build
 
-# Ignore Docker files
-Dockerfile
-docker-compose.yml
-
 # Ignore temporary files
 tmp
 *.tmp
